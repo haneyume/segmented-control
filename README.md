@@ -14,10 +14,10 @@ For Android and Web, it has a js implementation that mocks iOS 13 style of UISeg
 
 ## Supported React Native Version
 
-| react-native-segmented-control | react-native | 
-| --- | --- |
-| v2.2.0 | >= 0.62 |
-| <= v2.2.0 | >= 0.57 |
+| react-native-segmented-control | react-native |
+| ------------------------------ | ------------ |
+| v2.2.0                         | >= 0.62      |
+| <= v2.2.0                      | >= 0.57      |
 
 This module is NOT supported for expo.
 
@@ -187,8 +187,8 @@ Background color color of the control. (iOS 13+ only)
 The labels for the control's segment buttons, in order.
 
 | Type    | Required |
-| ------- | -------- |
-| (string | number   | Image)[] | No |
+| ------- | -------- | -------- | --- |
+| (string | number   | Image)[] | No  |
 
 ### `appearance`
 
@@ -243,3 +243,5 @@ The library is released under the MIT licence. For more information see [`LICENS
 [lean-core-badge]: https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg?style=flat-square
 [lean-core-issue]: https://github.com/facebook/react-native/issues/23313
 [support-badge]: https://img.shields.io/badge/platforms-android%20|%20ios%20|%20web-lightgrey.svg?style=flat-square
+
+qq
